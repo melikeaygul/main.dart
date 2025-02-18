@@ -1,0 +1,15 @@
+void main () {
+string gdStr = "Guten";
+string dayStr = "Tag";
+string worldStr = "Welt";
+int d = 20;
+string timeStr = "Zeit";
+int seven = 7;
+int twelve = 12;
+string dd = "!";
+int a = 24;
+string c = "Schöne";
+string morning = "Morgen";
+string s = "Heute";
+string spa = " ";
+}
