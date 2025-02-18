@@ -1,15 +1,15 @@
 void main () {
-string gdStr = "Guten";
-string dayStr = "Tag";
-string worldStr = "Welt";
+String gdStr = "Guten";
+String dayStr = "Tag";
+String worldStr = "Welt";
 int d = 20;
-string timeStr = "Zeit";
+String timeStr = "Zeit";
 int seven = 7;
 int twelve = 12;
-string dd = "!";
+String dd = "!";
 int a = 24;
-string c = "Schöne";
-string morning = "Morgen";
-string s = "Heute";
-string spa = " ";
+String c = "Schöne";
+String morning = "Morgen";
+String s = "Heute";
+String spa = " ";
 }
